@@ -1,0 +1,12 @@
+DifferenceMaker Kick-off Summary
+
+by Weiwei Li
+
+Yesterday, I attended DifferenceMaker Kick-off and sat on the table of Innovation.  Yonnie Colins, Navaneeth Chandrasekaran, Vivien Chow,  Zhiping Fu, Yubin Ma, Yang Meng, Ganesh Ramani,  Anitha Varghese, Wei Wang and Kaiwen Xu were siting on that table as well.
+
+Yonnie mentioned that a problem that when she lived on South campus, she was not able to catch up school bus even though she tried her best to sprint for that. So she thought that shuttles between campus might be the solution to making students get to class on time and it would help students living on campus as well as those going from campus to campus.
+
+We discussed the problem and her proposal. Some of us thought her proposal might be not the solution. Because adding shuttles should be limited by financial plan and it will also effect the traffic problem around campuses in rush hours.
+And we discussed an alternative way to solve this problem. We already have mobile app RoadsterRoutes can show student the routes and the location of a bus at real time. If the schedule and the route of a line were more flexible, it might strengthen the capacity of transportation of school bus. For example, we can dynamically make school bus departure from a station but not at a certain time interval to make the total time the bus operate along the route be a constant. Or we just make the school bus stop at some fixed stations and dynamical choose the route between stations to avoid heavy traffic with the help of Google Map or Waze. And we also can set sensors at some certain stations to record the arrival and departure time of a bus and estimate a timetable to the users of RoadsterRoutes.
+
+The problem was difficult but we might make difference.
